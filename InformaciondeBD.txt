@@ -1,0 +1,21 @@
+Este un sistema de evaluacion de doecntes de la I.E San Agustin Pampas.
+A continuacion se presentan los diversos usuarios del sistema con sus respetivas credenciales.
+
+*Admin:
+User:admin@gmail.com
+Pass:123456
+
+*Docentes:
+User:pablo@gmail.com
+Pass:123456
+
+*2 Coordinadores:
+User:carmen@gmail.com
+Pass:123456
+User:diego@gmail.com
+Pass:123456
+
+Estos datos no son reales(datos de prueba)
+Se adjunta el backup de la BD del sistema.
+Se adjunta el archivo de spss con los resultados de la investigacion
+
